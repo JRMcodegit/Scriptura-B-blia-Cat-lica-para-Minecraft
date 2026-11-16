@@ -1,0 +1,20 @@
+{
+  "name": "Scriptura — Bíblia Católica para Minecraft",
+  "slug": "scriptura-biblia-catolica-minecraft",
+  "version": "1.0.0",
+  "author": "JRMcodegit",
+  "language": "pt-BR",
+  "category": "Minecraft Datapack",
+  "summary": "Bíblia católica em português, organizada em volumes para leitura dentro do Minecraft.",
+  "description": "Datapack comunitário que organiza uma tradução portuguesa histórica da Bíblia em livros escritos do Minecraft, com volumes separados e distribuição por lotes de funções. Cânon pretendido: 73 livros, incluindo os deuterocanônicos.",
+  "license_code": "MIT",
+  "license_text": "Não definida por este pacote; ver TEXTOS-E-FONTES.md",
+  "minecraft_platform": "Minecraft Java Edition",
+  "additional_platform": "Horizon Client (compatibilidade a confirmar na versão utilizada)",
+  "namespace": "biblia",
+  "commands": [
+    "/function biblia:info",
+    "/function biblia:give_batch_001"
+  ],
+  "unofficial": true
+}
